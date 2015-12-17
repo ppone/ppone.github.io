@@ -1,34 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Thoughtful Insights</title>
+    <link>http://ppone.github.io/</link>
+    <description>Recent content on Thoughtful Insights</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2015 15:31:51 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-EN</language>
+    <managingEditor>parag@invoiced.com (Parag Patel)</managingEditor>
+    <webMaster>parag@invoiced.com (Parag Patel)</webMaster>
+    <copyright>(c) 2015 Parag Patel</copyright>
+    <lastBuildDate>Wed, 16 Dec 2015 22:46:00 -0600</lastBuildDate>
+    <atom:link href="http://ppone.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
-      <pubDate>Mon, 14 Dec 2015 15:31:51 -0600</pubDate>
-      
-      <guid>http://localhost:1313/post/first/</guid>
-      <description>&lt;p&gt;##Headline&lt;/p&gt;
+      <title>artifical intelligence</title>
+      <link>http://ppone.github.io/artifical-intelligence/</link>
+      <pubDate>Wed, 16 Dec 2015 22:46:00 -0600</pubDate>
+      <author>parag@invoiced.com (Parag Patel)</author>
+      <guid>http://ppone.github.io/artifical-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Funded</title>
+      <link>http://ppone.github.io/self-funded/</link>
+      <pubDate>Wed, 16 Dec 2015 22:39:53 -0600</pubDate>
+      <author>parag@invoiced.com (Parag Patel)</author>
+      <guid>http://ppone.github.io/self-funded/</guid>
+      <description>
 
-&lt;p&gt;first post - hello world&lt;/p&gt;
+&lt;h2 id=&#34;efficancy&#34;&gt;Efficancy&lt;/h2&gt;
+
+&lt;p&gt;To be really self-efficient you have to be self-funded.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://ppone.github.io/about/</link>
       <pubDate>Mon, 14 Dec 2015 15:30:35 -0600</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;##About Me
-About ME&lt;/p&gt;
+      <author>parag@invoiced.com (Parag Patel)</author>
+      <guid>http://ppone.github.io/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+
+&lt;p&gt;Co-founder of &lt;a href=&#34;https://invoiced.com&#34;&gt;Invoiced&lt;/a&gt; .  At the intersection of technology and business.&lt;/p&gt;
 </description>
     </item>
     
