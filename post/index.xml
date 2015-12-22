@@ -18,13 +18,13 @@
       <pubDate>Wed, 16 Dec 2015 22:39:53 -0600</pubDate>
       <author>parag@invoiced.com (Parag Patel)</author>
       <guid>http://ppone.github.io/self-funded/</guid>
-      <description>
-
-&lt;h2 id=&#34;self-funded&#34;&gt;Self-Funded&lt;/h2&gt;
-
-&lt;p&gt;In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before are&lt;/p&gt;
+      <description>&lt;p&gt;In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before are&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-Go&#34;&gt;var x = 1
+
+if i.Name() != name {
+        t.Fatal(&amp;quot;integ.Name() is not equal name&amp;quot;)
+}
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
