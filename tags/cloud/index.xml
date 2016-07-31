@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on Thoughtful Insights</title>
-    <link>http://ppone.github.io/tags/cloud/</link>
+    <link>http://paragmpatel.com/tags/cloud/</link>
     <description>Recent content in Cloud on Thoughtful Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>parag@invoiced.com (Parag Patel)</webMaster>
     <copyright>(c) 2016 Parag Patel</copyright>
     <lastBuildDate>Sun, 31 Jul 2016 11:14:35 -0500</lastBuildDate>
-    <atom:link href="http://ppone.github.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://paragmpatel.com/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>5 Reasons Why Your Business Should Use A Modern SaaS Cloud Offering</title>
-      <link>http://ppone.github.io/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</link>
+      <link>http://paragmpatel.com/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</link>
       <pubDate>Sun, 31 Jul 2016 11:14:35 -0500</pubDate>
       <author>parag@invoiced.com (Parag Patel)</author>
-      <guid>http://ppone.github.io/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</guid>
+      <guid>http://paragmpatel.com/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Cost&lt;/strong&gt; - The overall total cost of the SaaS solution will be much lower than internally developing the equivalent system or outsourcing the development.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Quality&lt;/strong&gt;  - A SaaS solution might be used by thousands of customers, and so many edge cases are handled and software bugs are squashed as soon as they are discovered.  A custom developed solution will not have gone through the same level of user testing, and so your business users might encounter many problems, and you will encounter a costly bill to fix those issues.&lt;/p&gt;

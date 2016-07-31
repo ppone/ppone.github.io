@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughtful Insights</title>
-    <link>http://ppone.github.io/</link>
+    <link>http://paragmpatel.com/</link>
     <description>Recent content on Thoughtful Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,14 +10,14 @@
     <webMaster>parag@invoiced.com (Parag Patel)</webMaster>
     <copyright>(c) 2016 Parag Patel</copyright>
     <lastBuildDate>Sun, 31 Jul 2016 11:14:35 -0500</lastBuildDate>
-    <atom:link href="http://ppone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://paragmpatel.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>5 Reasons Why Your Business Should Use A Modern SaaS Cloud Offering</title>
-      <link>http://ppone.github.io/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</link>
+      <link>http://paragmpatel.com/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</link>
       <pubDate>Sun, 31 Jul 2016 11:14:35 -0500</pubDate>
       <author>parag@invoiced.com (Parag Patel)</author>
-      <guid>http://ppone.github.io/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</guid>
+      <guid>http://paragmpatel.com/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Cost&lt;/strong&gt; - The overall total cost of the SaaS solution will be much lower than internally developing the equivalent system or outsourcing the development.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Quality&lt;/strong&gt;  - A SaaS solution might be used by thousands of customers, and so many edge cases are handled and software bugs are squashed as soon as they are discovered.  A custom developed solution will not have gone through the same level of user testing, and so your business users might encounter many problems, and you will encounter a costly bill to fix those issues.&lt;/p&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Zero To Ten</title>
-      <link>http://ppone.github.io/zero-to-ten/</link>
+      <link>http://paragmpatel.com/zero-to-ten/</link>
       <pubDate>Wed, 16 Dec 2015 22:39:53 -0600</pubDate>
       <author>parag@invoiced.com (Parag Patel)</author>
-      <guid>http://ppone.github.io/zero-to-ten/</guid>
+      <guid>http://paragmpatel.com/zero-to-ten/</guid>
       <description>&lt;p&gt;In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before seem to be also advocating for startups to take capital.&lt;/p&gt;
 
 &lt;p&gt;This can be quite dangerous.  With funding you can build many facets of business except for the most important ones.&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title></title>
-      <link>http://ppone.github.io/about/</link>
+      <link>http://paragmpatel.com/about/</link>
       <pubDate>Mon, 14 Dec 2015 15:30:35 -0600</pubDate>
       <author>parag@invoiced.com (Parag Patel)</author>
-      <guid>http://ppone.github.io/about/</guid>
+      <guid>http://paragmpatel.com/about/</guid>
       <description>
 
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
