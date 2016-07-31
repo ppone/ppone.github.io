@@ -8,9 +8,27 @@
     <language>en-EN</language>
     <managingEditor>parag@invoiced.com (Parag Patel)</managingEditor>
     <webMaster>parag@invoiced.com (Parag Patel)</webMaster>
-    <copyright>(c) 2015 Parag Patel</copyright>
-    <lastBuildDate>Wed, 16 Dec 2015 22:39:53 -0600</lastBuildDate>
+    <copyright>(c) 2016 Parag Patel</copyright>
+    <lastBuildDate>Sun, 31 Jul 2016 11:14:35 -0500</lastBuildDate>
     <atom:link href="http://ppone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>5 Reasons Why Your Business Should Use A Modern SaaS Cloud Offering</title>
+      <link>http://ppone.github.io/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</link>
+      <pubDate>Sun, 31 Jul 2016 11:14:35 -0500</pubDate>
+      <author>parag@invoiced.com (Parag Patel)</author>
+      <guid>http://ppone.github.io/5-reasons-why-your-business-should-use-a-modern-saas-cloud-offering/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Cost&lt;/strong&gt; - The overall total cost of the SaaS solution will be much lower than internally developing the equivalent system or outsourcing the development.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quality&lt;/strong&gt;  - A SaaS solution might be used by thousands of customers, and so many edge cases are handled and software bugs are squashed as soon as they are discovered.  A custom developed solution will not have gone through the same level of user testing, and so your business users might encounter many problems, and you will encounter a costly bill to fix those issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maintenance&lt;/strong&gt; - A SaaS solution will continuously update and maintain their offering; patching security issues and fixing bugs.  You do not need to allocate resources or contract outside resources to this endeavor.  In addition you get new features and functionality at no additional cost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Availability&lt;/strong&gt; - No installation necessary, just load the service through your web browser and you are good to go.  You can use the service anytime, anywhere, and from any device.  The no installation also means your IT staff save time in trying to debug installation issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interoperability&lt;/strong&gt; -  Modern SaaS offerings usually come with a API giving you the ability to connect the service with any of your internal systems.  You do not have to worry about data lock in.  Many SaaS companies provide a well documented API, and open source API clients in popular programming languages, so your integration work moves quickly.  They might also offer some plug and play integrations (no custom development needed) with other popular SaaS services.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Zero To Ten</title>
@@ -18,8 +36,7 @@
       <pubDate>Wed, 16 Dec 2015 22:39:53 -0600</pubDate>
       <author>parag@invoiced.com (Parag Patel)</author>
       <guid>http://ppone.github.io/zero-to-ten/</guid>
-      <description>&lt;p&gt;##Draft
-In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before seem to be also advocating for startups to take capital.&lt;/p&gt;
+      <description>&lt;p&gt;In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before seem to be also advocating for startups to take capital.&lt;/p&gt;
 
 &lt;p&gt;This can be quite dangerous.  With funding you can build many facets of business except for the most important ones.&lt;/p&gt;
 

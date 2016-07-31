@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Thoughtful Insights</title>
-    <link>http://ppone.github.io/post/</link>
-    <description>Recent content in Posts on Thoughtful Insights</description>
+    <title>Saas on Thoughtful Insights</title>
+    <link>http://ppone.github.io/tags/saas/</link>
+    <description>Recent content in Saas on Thoughtful Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>parag@invoiced.com (Parag Patel)</managingEditor>
     <webMaster>parag@invoiced.com (Parag Patel)</webMaster>
     <copyright>(c) 2016 Parag Patel</copyright>
     <lastBuildDate>Sun, 31 Jul 2016 11:14:35 -0500</lastBuildDate>
-    <atom:link href="http://ppone.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ppone.github.io/tags/saas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>5 Reasons Why Your Business Should Use A Modern SaaS Cloud Offering</title>
@@ -27,22 +27,6 @@
 &lt;p&gt;&lt;strong&gt;Availability&lt;/strong&gt; - No installation necessary, just load the service through your web browser and you are good to go.  You can use the service anytime, anywhere, and from any device.  The no installation also means your IT staff save time in trying to debug installation issues.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Interoperability&lt;/strong&gt; -  Modern SaaS offerings usually come with a API giving you the ability to connect the service with any of your internal systems.  You do not have to worry about data lock in.  Many SaaS companies provide a well documented API, and open source API clients in popular programming languages, so your integration work moves quickly.  They might also offer some plug and play integrations (no custom development needed) with other popular SaaS services.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zero To Ten</title>
-      <link>http://ppone.github.io/zero-to-ten/</link>
-      <pubDate>Wed, 16 Dec 2015 22:39:53 -0600</pubDate>
-      <author>parag@invoiced.com (Parag Patel)</author>
-      <guid>http://ppone.github.io/zero-to-ten/</guid>
-      <description>&lt;p&gt;In this environment of excess capital it can sometimes go against the grain to be self-funded.  Strangely most people who have bootstrapped businesses before seem to be also advocating for startups to take capital.&lt;/p&gt;
-
-&lt;p&gt;This can be quite dangerous.  With funding you can build many facets of business except for the most important ones.&lt;/p&gt;
-
-&lt;p&gt;With funding you may easily think that you can go from 0 to 10. However you in most cases, unless you have done it before you will be fooled.&lt;/p&gt;
-
-&lt;p&gt;Entrepreneurship is such that you cannot skip levels.  Level zero might involve you using a hard skill to grow and promote your business.&lt;/p&gt;
 </description>
     </item>
     
